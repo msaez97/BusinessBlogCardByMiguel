@@ -17,9 +17,10 @@ main {
 
 .card {
     max-width: 416px;
-    margin: 164px auto;
+    margin: 124px auto;
     border-radius: 10px;
     background-color: #ffffff;
+    border-radius: 20px;
 }
 
 .overlay {
@@ -30,7 +31,6 @@ main {
 .imgCard {
     width: 100%;
     height: 100%;
-    border-radius: 10px;
 }
 
 .svgCard {
